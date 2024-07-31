@@ -1,3 +1,5 @@
+'use strict'
+
 export function checkHealth(hero) {
     let result = 0;
     
